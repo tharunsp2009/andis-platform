@@ -1,0 +1,6 @@
+{
+  "name": "ANDIS Agent",
+  "description": "A professional cybersecurity monitoring agent and dashboard for real-time system metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

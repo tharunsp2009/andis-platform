@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "concurrently \"python3 andis_server.py || python andis_server.py\" \"tsx server.ts\"",
     "build": "vite build",
-    "start": "node server.ts",
+    "start": "tsx server.ts",
     "clean": "rm -rf dist",
     "lint": "tsc --noEmit"
   },
